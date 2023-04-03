@@ -65,7 +65,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   pause: const Duration(milliseconds: 1000),
                   animatedTexts: [
                     TypewriterAnimatedText(
-                      'AGRO SCAN',
+                      'FARMGARD',
                       textStyle: const TextStyle(
                         color: Colors.white,
                         fontSize: 25.0,

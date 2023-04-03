@@ -177,7 +177,7 @@ class _HomeState extends State<Home> {
                   height: 50,
                 ),
                 Text(
-                  "AGROSCAN",
+                  "FARMGARD",
                   style: TextStyle(
                       fontSize: 35,
                       fontWeight: FontWeight.bold,

@@ -222,6 +222,8 @@ class _SignupScreenState extends State<SignupScreen> {
                                   padding: EdgeInsets.all(8),
                                   child: InkWell(
                                       onTap: () async {
+                                        print(email);
+                                        print(password);
                                         await _register(email, password);
 
                                         await firebaseefunc.adduser(
